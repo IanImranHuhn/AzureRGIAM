@@ -12,22 +12,6 @@
 
 - <b>Completion: </b>Confirm the new resource group is listed and matches the setup details; make adjustments if necessary for accuracy.
 
-<h2>How to read each section (in this order)</h2>
-
-<b>Section-Intro</b> 
-- <b>Title: </b>Name of the section.
-- <b>Description: </b>Describe what the section entails. Some sections won’t have descriptions. 
-
-<b>Image</b> 
-- <b>Numbering: </b>Within the images are sequential numbers, with corresponding text explanations directly below each image.
-- <b>Yellow highlights: </b>Yellow highlights are navigation aids to help identify your current section in the Azure portal.
-
-<b>Text numbers</b> 
-- <b>Numbers: </b>Each number provides a brief explanation of the image directly above it.
-
-<b>Side notes</b> 
-- <b>Notes: </b>Any extra details you should be aware of.
-
 <h2>Introduction</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Creating a Resource Group for an IAM user is a fundamental step in managing Azure resources efficiently. By organizing resources into groups, you can simplify management, streamline access control, and enhance security. This guide will walk you through the process of setting up a new resource group in the Azure portal, ensuring that all necessary details are accurately entered. Remember, creating resource groups incurs no cost unless resources are added to them. Following these steps will help you establish a well-structured environment for your IAM users.
